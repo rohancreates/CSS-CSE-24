@@ -2,17 +2,33 @@
   text-align: center;
 }
 #heading{
-    color: rgb(0, 0, 0);
-    background-color: aqua;
-    margin: 50px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-style: dashed;
-    border-color: blue;
+  color: rgb(0, 0, 0);
+  background-color: aqua;
+  margin: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: dashed;
+  border-color: rgb(123, 173, 181);
 }
-#box2{
-    background-color: blueviolet;
-    padding: 50px;
-    word-spacing: 5px;
+#papers{
+ text-align: center;
+ color: black;
+ background-color: rgb(255, 255, 255);
+ margin: 50px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ border-style: dashed;
+  
     
+}
+#Scissors{
+  text-align: center;
+  color: black;
+  background-color: rgb(107, 107, 107);
+  margin: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: dashed;
+
+  
 }
