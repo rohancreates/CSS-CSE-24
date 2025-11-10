@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(60, 7, 109);
+  padding: 20px;
+}
+
+#ddiivv{
+  background-image: url(/images/red-yellow-watercolor.jpg);
+  border: 10px;
+  border-radius: 30px;
+  border-color: rgb(53, 16, 16);
+  padding: 50px;
+  border-style: solid;
+}
+
+.centre{
+  text-align: center;
+}
+#one{
+  text-align: center;
+}
+#stone{
+  
+  color: rgb(0, 0, 0);
+  background-color: aqua;
+  margin: 50px;;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}
+#papers{
+ text-align: center;
+ color: black;
+ background-color: rgb(255, 255, 255);
+ margin: 50px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ border-style: solid;
+    
+}
+#Scissors{
+  text-align: center ;
+  color : black;
+  background-color : rgb(107, 107, 107);
+  margin : 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: solid;
+  
+}
+
